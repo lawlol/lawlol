@@ -37,6 +37,5 @@
 <h4 align="center">- Contribution Snake -</h4>
 
 <p align="center">
-    <img src="https://github.com/lawlol/law/blob/main/github-user-contributionlight.svg">
     <img src="https://github.com/lawlol/law/blob/main/github-user-contribution.svg">
 </p>
