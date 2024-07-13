@@ -37,6 +37,6 @@
 <h4 align="center">- Contribution Snake -</h4>
 
 <p align="center">
-    <img src="https://github.com/lawlol/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img src="https://github.com/lawlol/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+    <img src="https://github.com/lawlol/law/blob/main/github-user-contributionlight.svg">
+    <img src="https://github.com/lawlol/law/blob/main/github-user-contribution.svg">
 </p>
